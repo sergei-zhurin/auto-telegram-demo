@@ -1,0 +1,14 @@
+/.venv/
+auto-telegram-venv/
+**/__pycache__
+/.env
+.idea/
+*.py[cod]
+*.log
+data/storage_*.json
+/data/examples_bn.json
+/notes.txt
+/test_centroids.py
+/test_config.py
+/test_script.py
+/test_X.py
